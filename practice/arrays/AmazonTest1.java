@@ -7,7 +7,7 @@ import java.util.Collections;
 import java.util.List;
 
 public class AmazonTest1 {
-
+//test
     long findNoOfWays(List<Integer> priceOfJeans, List<Integer> priceOfShoes, List<Integer> priceOfSkrits, List<Integer> priceOfTops, int dollars){
         Collections.sort(priceOfJeans);
         Collections.sort(priceOfShoes);
